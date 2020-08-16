@@ -1,0 +1,25 @@
+{
+  "name": "cypressinstall",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.11.0",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-vukosavljevic/gradebookivan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-vukosavljevic/gradebookivan/issues"
+  },
+  "homepage": "https://github.com/ivan-vukosavljevic/gradebookivan#readme"
+}
